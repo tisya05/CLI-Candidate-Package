@@ -1,0 +1,16 @@
+{
+  "candidate_id": "test1",
+  "task_id": "merge_lists",
+  "start_time": "2025-07-21 01:10:48",
+  "submissions": [
+    {
+      "time": "2025-07-21 01:11:05",
+      "files": [
+        "main.py"
+      ]
+    }
+  ],
+  "autosubmitted": "no",
+  "final_submission_time": "2025-07-21 01:11:00",
+  "total_duration_hms": "0 hr 0 min 12 sec"
+}
