@@ -1,0 +1,16 @@
+{
+  "candidate_id": "test3",
+  "task_id": "palindrome",
+  "start_time": "2025-07-21 09:13:39",
+  "submissions": [
+    {
+      "time": "2025-07-21 09:13:45",
+      "files": [
+        "main.py"
+      ]
+    }
+  ],
+  "autosubmitted": "no",
+  "final_submission_time": "2025-07-21 09:13:45",
+  "total_duration_hms": "0 hr 0 min 6 sec"
+}
