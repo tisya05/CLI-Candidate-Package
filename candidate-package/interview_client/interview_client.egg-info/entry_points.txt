@@ -1,0 +1,2 @@
+[console_scripts]
+interview = interview_client.cli:main

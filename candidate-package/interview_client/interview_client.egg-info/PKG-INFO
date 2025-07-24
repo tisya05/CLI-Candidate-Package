@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: interview-client
+Version: 1.0.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Requires-Dist: python-dotenv
+Requires-Dist: requests
+Requires-Dist: customtkinter
+Requires-Dist: pync; platform_system == "Darwin"
+Requires-Dist: plyer; platform_system == "Windows"
+Dynamic: classifier
+Dynamic: requires-dist
+Dynamic: requires-python

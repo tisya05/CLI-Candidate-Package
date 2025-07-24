@@ -1,0 +1,9 @@
+python-dotenv
+requests
+customtkinter
+
+[:platform_system == "Darwin"]
+pync
+
+[:platform_system == "Windows"]
+plyer
