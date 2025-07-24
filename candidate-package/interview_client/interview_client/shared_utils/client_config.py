@@ -14,7 +14,7 @@ GLOBAL_SESSION_LOCK = os.path.join(INTERVIEW_FLAG_DIR, ".interview_active")
 
 # DB and Server config
 DB_URI = os.getenv("DB_URI")
-SERVER_URL = "http://localhost:5050"
+SERVER_URL = "https://31769a53454f.ngrok-free.app"
 
 # Timer config
 TIMER_DURATION_MINUTES = 10
